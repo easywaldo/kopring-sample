@@ -1,0 +1,9 @@
+GET localhost:8090/products/
+
+#POST localhost:8090/products/create
+#Content-Type: application/json
+#
+#{
+#    "name": "Product 2",
+#    "price": 100
+#}
